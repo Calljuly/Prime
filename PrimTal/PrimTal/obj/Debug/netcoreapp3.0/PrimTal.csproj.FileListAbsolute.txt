@@ -1,0 +1,11 @@
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\bin\Debug\netcoreapp3.0\PrimTal.exe
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\bin\Debug\netcoreapp3.0\PrimTal.deps.json
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\bin\Debug\netcoreapp3.0\PrimTal.runtimeconfig.json
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\bin\Debug\netcoreapp3.0\PrimTal.runtimeconfig.dev.json
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\bin\Debug\netcoreapp3.0\PrimTal.dll
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\bin\Debug\netcoreapp3.0\PrimTal.pdb
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\obj\Debug\netcoreapp3.0\PrimTal.csprojAssemblyReference.cache
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\obj\Debug\netcoreapp3.0\PrimTal.AssemblyInfoInputs.cache
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\obj\Debug\netcoreapp3.0\PrimTal.AssemblyInfo.cs
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\obj\Debug\netcoreapp3.0\PrimTal.dll
+C:\Users\92julcal\source\repos\PrimTal\PrimTal\obj\Debug\netcoreapp3.0\PrimTal.pdb
